@@ -2,6 +2,8 @@
 
 This repository contains a project that focuses on creating a pricing table using HTML and CSS. The primary objective of this project is to learn and implement the use of Flexbox in website design.
 
+ visit live:https://mukeshkc123.github.io/Pricing-Table/
+
 ## Project Overview
 
 The pricing table is a common element found on websites that offer different subscription or pricing plans. It provides a clear and concise comparison of features, benefits, and costs for each plan. In this project, we will utilize HTML and CSS to create an attractive and responsive pricing table.
